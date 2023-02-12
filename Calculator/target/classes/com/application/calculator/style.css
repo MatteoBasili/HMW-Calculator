@@ -1,0 +1,85 @@
+#btn{
+    -fx-background-color:white;
+    -fx-border-color:black;
+    -fx-font-size: 18pt;
+    -fx-border-width:10px;
+    -fx-text-fill:black;
+    -fx-font-weight:bold;
+    -fx-effect: null;
+}
+
+#btn:hover{
+    -fx-background-color:white;
+    -fx-border-color:black;
+    -fx-font-size: 19pt;
+    -fx-border-width:10px;
+    -fx-text-fill:black;
+    -fx-font-weight:bold;
+    -fx-effect: null;
+}
+
+#btnEqual{
+    -fx-background-color:white;
+    -fx-border-color:black;
+    -fx-font-size: 18pt;
+    -fx-border-width:10px;
+    -fx-text-fill:black;
+    -fx-font-weight:bold;
+    -fx-effect: null;
+}
+
+#btnEqual:hover{
+    -fx-background-color:white;
+    -fx-border-color:black;
+    -fx-font-size: 19pt;
+    -fx-border-width:10px;
+    -fx-text-fill:black;
+    -fx-font-weight:bold;
+}
+
+#btnOp{
+    -fx-background-color:black;
+    -fx-border-color:black;
+    -fx-font-size: 18pt;
+    -fx-border-width:10px;
+    -fx-text-fill:black;
+    -fx-font-weight:bold;
+    -fx-effect: null;
+}
+
+#btnOp:hover{
+    -fx-background-color:black;
+    -fx-border-color:black;
+    -fx-font-size: 19pt;
+    -fx-border-width:10px;
+    -fx-text-fill:black;
+    -fx-font-weight:bold;
+}
+
+#btnClear{
+    -fx-background-color:blue;
+    -fx-border-color:black;
+    -fx-font-size: 18pt;
+    -fx-border-width:10px;
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+    -fx-effect: null;
+}
+
+#btnClear:hover{
+    -fx-background-color:blue;
+    -fx-border-color:black;
+    -fx-font-size: 19pt;
+    -fx-border-width:10px;
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+}
+
+#textField{
+    -fx-background-color:transparent;
+    -fx-border-color:#D4D4D2;
+    -fx-border-width:5px;
+    -fx-font-size: 22pt;
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+}
